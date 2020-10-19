@@ -1,3 +1,4 @@
+//: [Overview - Table of Contents](Overview)
 /*
  # Linked list
 
@@ -15,7 +16,7 @@ Source: https://en.wikipedia.org/wiki/Linked_list
 
 ### Overview
 
-Below we have an implementation of a linked list.
+Below we have an implementation of a Linked list.
  
  */
 
