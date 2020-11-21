@@ -4,5 +4,6 @@
         <page name='Overview'/>
         <page name='Linked list'/>
         <page name='Binary tree'/>
+        <page name='Algorithms'/>
     </pages>
 </playground>
